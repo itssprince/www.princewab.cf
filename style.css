@@ -1,0 +1,185 @@
+
+mg{
+  height:100px;
+  width: 100px;
+}
+*{
+  margin:0px;
+  padding: 0px;
+}
+.home{
+  display: flex;
+}
+.name{
+ width :50%;
+ display: flex;
+ 
+
+}
+.right{
+  width: 50%;
+  text-align: right;
+  margin-top: 5.5px;
+
+  
+}
+.loge{
+  width: 20%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin:20px;
+}
+.logo img{
+  width: 80px;
+  height: 77px;
+  border: 2px solid white;
+  border-radius: 50px;
+  
+}
+.home li{
+  list-style:none;
+  padding: 20px 45px;
+}
+.home li a:hover{
+     color: gray;
+}
+.home li a{
+  text-decoration:none;
+  color: white;
+  font-size: 17pt;
+}
+
+#name{
+  padding: 5px;
+  font-size: 17px;
+  border: 2px solid gray;
+  border-radius: 12px;
+}
+.background{
+  background: rgba(0,0,0,0.6) url(img/7.jpg);
+  background-size: cover;
+  background-blend-mode: darken;
+  padding: 10px;
+}
+
+.jp{
+  height:200px;
+  width: 200px;
+  border: 2px solid gray;
+  border-radius: 100px;
+  margin: 200px;
+}
+.pp{
+    display: flex;
+    height: 100vh;
+}
+
+.firstshalf{
+  width: 80%;
+  justify-content: center;
+  margin: 200px;
+  padding:50px;
+  margin-left: 5px;
+  margin-right: 100px;
+  
+}
+.php{
+  text-decoration:none;
+  font-size: 28px;
+  color:white;
+  background-color:red;
+  border:3px solid red;
+  border-radius:5px;
+  padding:2px;
+  margin:50px;
+}
+
+.font{
+  font-size:40px;
+}
+
+.fohis{
+  font-size:35px;
+}
+
+.prince{
+  height: 25px;
+  width: 65px;
+  margin: 5px;
+  font-size: 19px;
+}
+.prince:hover{
+  color: green;
+}
+
+.dropedown{
+  display: none;
+}
+.dropedown li:hover{
+    display: block;
+    position: absolute;
+}
+
+.login{
+text-decoration:none; 
+font-size:25px;  
+color:black;  
+background-color:white; 
+border:3px white; 
+border-radius:5px; 
+padding:3px;
+}
+
+.condition{
+ background-color:#000000;
+ padding:40px;
+  
+}
+.bottom{
+  margin:50px;
+  margin-left: 100px;
+  text-decoration:none;
+  color:#FFFFFF;
+}
+.h1text{
+  margin-bottom:20px;
+  margin-left: 60px;
+  font-size:50px;
+}
+.text-box{
+  margin-left:300px;
+  margin-top: 350px;
+  height:90vh;
+}
+.text-box input{
+   font-size: 23px;
+}
+.serv{
+ height:100vh;
+}
+.a-login{
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  font-size: 28px;
+  
+}
+.a1-log{
+  color: #ffffff;
+  padding-left: 90px;
+  font-size: 24px;
+}
+.cenhome{
+  padding-top: 5px;
+  text-align:center;
+  font-size: 50px;
+}
+.notw{
+ padding-right:80px;
+}
+.serhome{
+  padding-top: 5px;
+  text-align: center;
+  font-size: 40px;
+}
